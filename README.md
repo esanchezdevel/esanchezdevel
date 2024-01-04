@@ -3,6 +3,7 @@
 - 🌱 I’m currently practicing NodeJS with MongoDB to improve my skills. I'm also keep improving my skills with Spring Boot and Devops working in some personal projects.
 - 📫 You can contact me via email esanchez.devel@gmail.com
 - :computer: Linkedin profile: https://www.linkedin.com/in/enrique-sanchez-jordan-703b3163/
+- 📰 Blog: http://elrincondekike.com
 
 <!---
 esanchezdevel/esanchezdevel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
