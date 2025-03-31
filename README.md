@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @esanchezdevel from Madrid, Spain. A Java Backend Software Engineer with more than 12 years of experience.
-- 👀 I’m mostly interested in Java, Spring Boot, javaFX, NodeJS, Mysql, PostgreSQL, Docker and Kubernetes.
-- 🌱 I’m currently practicing Python for automation tests, Kubernetes and Apache Pinot to improve my skills. I'm also keep improving my skills with Spring Boot and Devops working in some personal projects.
+- 👀 I’m mostly interested in Java, Spring Boot, JavaFX, Python, NodeJS, Mysql, PostgreSQL, Docker and Kubernetes.
+- 🌱 I’m currently practicing implementing JavaFX Desktop applications. I'm also keep improving my skills with Spring Boot, Kubernetes and other Devops tools working in some personal projects.
 - 📫 You can contact me via email esanchez.devel@gmail.com
 - :computer: Linkedin profile: https://www.linkedin.com/in/enrique-sanchez-jordan-703b3163/
 
