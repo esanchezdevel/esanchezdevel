@@ -3,7 +3,6 @@
 - 🌱 I’m currently practicing implementing JavaFX Desktop applications. I'm also keep improving my skills with Spring Boot, Kubernetes and other Devops tools working in some personal projects.
 - 📫 You can contact me via email esanchez.devel@gmail.com
 - :computer: Linkedin profile: https://www.linkedin.com/in/enrique-sanchez-jordan-703b3163/
-- 🌐 Web: [https://programandoconjava.com](https://programandoconjava.com)
 
 <!---
 esanchezdevel/esanchezdevel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
